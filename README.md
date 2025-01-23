@@ -1,4 +1,4 @@
-# XbyK Dancing goat with no caching available bug when running live site and admin in separate domains
+# XbyK Dancing goat bug: No caching available when running live site and admin in separate domains
 
 This project demonstrates that cache doesn't work when running a live site instance without admin and running an admin instance.
 
